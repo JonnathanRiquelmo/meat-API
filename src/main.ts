@@ -1,4 +1,4 @@
-import { Server } from './server/server';
+import { Server } from '../src/server/server';
 import { _UsersRoute } from './users/users.router';
 
 const server = new Server();

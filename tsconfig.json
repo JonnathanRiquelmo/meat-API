@@ -4,6 +4,9 @@
     "module": "commonjs",
     "outDir": "dist",
     "removeComments": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true
   }
 }
 // {
